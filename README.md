@@ -1,6 +1,6 @@
 # Codewars
 
-[![](https://www.codewars.com/users/jack-carling/badges/large)](#)
+[![](https://www.codewars.com/users/jack-carling/badges/large)](https://www.codewars.com/users/jack-carling/)
 
 ## About
 
